@@ -1,0 +1,33 @@
+body{background-color: pink;}
+
+
+.container{ width:500px;
+  margin: 40px auto
+
+}
+.container table{width: 100%;
+background-color: #fff;
+text-align: left;
+border: 1px solid #aaa;
+border-collapse: collapse;
+}
+.container table tr{
+  border-bottom: 1px solid #aaa;
+
+}
+ .container table tr td{
+  border: 1px solid #ddd;
+ padding-top: 10px;
+  padding-bottom: 10px;}
+
+
+.container table tr th{
+border: 1px solid #ddd;
+}
+.container table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+}

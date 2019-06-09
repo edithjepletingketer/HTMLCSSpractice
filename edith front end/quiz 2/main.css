@@ -1,0 +1,58 @@
+
+
+
+
+
+body{
+
+
+	padding: 0px;
+	margin: 0px;
+	background-color: #ccc;
+
+
+}
+.container{
+width: 600px;
+height:150px;
+background-color: #fff;
+padding: 30px; 
+border: 5px;
+margin: 30px;
+
+
+}
+.container p{
+	margin: 0px;
+	padding: 0px;
+	color: red;
+}
+
+
+.leftpanel{
+width: 200px;
+height:150px;
+background-color: #fff;
+padding: 30px; 
+border: 5px;
+margin: 30px;
+}
+
+.edith{
+width: 30px;
+height: 100px;
+background-color: #ccc;
+padding: 30px;
+border: 0px;
+margin: 30px;
+
+}
+
+.akirachix{
+	width: 300px;
+	height: 120px;
+	background-color: rgb(60, 179, 113);
+	padding: 20px;
+	border: 5px;
+	margin: 20px;
+}

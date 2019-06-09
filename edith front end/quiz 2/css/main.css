@@ -1,0 +1,34 @@
+body{
+      padding: 0px;
+      margin: 0px;
+      background-color: #ccc;
+}
+
+.container{
+          width: 600px;
+          height: 200px;
+          background-color: rgb(255, 0, 0);
+          padding: 30px;
+          border: 5px solid blue;
+          margin: 30px auto;
+          font-size: 20px;
+
+	}
+	.container p{
+
+		margin: 0px;
+		padding: 0px;
+		color: black;
+
+	}
+	.edith{
+          width: 500px;
+          height: 200px;
+          background-color: rgb(238,130,238);
+          padding: 40px;
+          border: solid rgb(255,165,0);
+          margin: 20px auto;
+          font-weight: bold;
+
+
+	}

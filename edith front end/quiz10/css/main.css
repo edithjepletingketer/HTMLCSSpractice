@@ -1,0 +1,48 @@
+body{
+	background: linear-gradient(#F6E5F3,#DEE6F3); 
+	
+}
+
+ .edith h1{
+	
+	position: fixed;
+  top: 0;
+  margin: 0 auto;
+  width: 100%;
+ 
+  background-color: grey;
+	font-family: 'Roboto', sans-serif;
+
+	
+	}
+	.edith{
+	width:800px;
+	/*padding: 20px;*/
+	margin:0 auto;
+	background-color:#F9FCFB; 
+
+}
+
+.edith i{
+	top: 160px;
+	background-color: #F4FB02  ;
+	border-radius: 20px;
+	
+	padding: 20px;
+	font-size: 60px;
+
+	}  
+
+.edith p{
+	padding: 20px;
+	font-family: 'Roboto', sans-serif;
+	
+	line-height: 20px;
+}
+.edgar p{
+	position: relative;
+	background-color: pink;
+  
+  
+  
+}

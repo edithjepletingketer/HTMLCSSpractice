@@ -1,0 +1,74 @@
+body{
+	background-color: #ddd;
+	font-family: arial;
+	color: #222;
+	background-image: url(../images/landscape2.jpg);
+}
+.login{
+	max-width:400px;
+	/*background-color: #fff;*/
+	min-height: 300px;
+	margin:10% auto; 
+}
+.login h3{
+	margin:0 0 10px 5px;
+	color: white;
+}
+.login form{
+	background-color:rgba(255, 255, 255, 0.37);
+
+	padding:30px;
+	margin: 5px;
+	border-radius: 5px;
+	box-shadow: 0 46px 5px rgba(0,)
+	
+}
+.login form ul{
+	padding:0px;
+	margin:0px;
+	
+	
+}
+.login form ul li{
+	padding:0px;
+	margin:0px 0 10px 0;
+	list-style: none;
+
+}
+.login form ul li:last-child{
+	margin: 0px;
+
+}
+.login form label{
+	display:block;
+	padding-bottom: 5px;
+	font-size: 12px;
+}
+.login form input+label{
+	display: inline;
+	padding:10px;
+
+}
+.login form input[type=text],.login form input[type=email],.login form input[type=password]/*,.login form input[type=radio]*/{
+	display:block;
+	width:328px;
+	border: 1px solid #ccc;
+	height:35px;
+	text-indent: 10px;
+	border-radius: 5px;
+}
+.login form input[type=radio]{
+	padding-right: 20px;
+}
+.login form input[type=submit]{
+	width:330px;
+	background-color: #555;
+	color:#fff;
+	height:40px;
+	border:none;
+	border-radius: 5px;
+
+
+}
+
+

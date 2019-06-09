@@ -1,0 +1,30 @@
+body{
+	background: linear-gradient(#F6E5F3,#DEE6F3); 
+	
+}
+.edith{
+	width:600px;
+	padding: 20px;
+	margin:0 auto;
+	background-color:#F9FCFB; 
+
+}
+.edith h1{
+	font-family: 'Roboto', sans-serif;
+
+	
+	}
+
+.edith i{
+	background-color: #F4FB02  ;
+	border-radius: 20px;
+	padding: 20px;
+	font-size: 70px;
+
+	}  
+
+.edith p{
+	font-family: 'Roboto', sans-serif;
+	
+	line-height: 20px;
+}

@@ -1,0 +1,19 @@
+
+
+
+
+
+
+body{
+  background-image: url(../edith.jpg);
+  background-repeat: no-repeat;
+  background-position: right-top;
+  background-attachment: fixed;
+  background-size: cover;
+  }
+  .container{
+  	width: 500px;
+  	padding: 40px;
+  	background-color: rgb(255,0,36);
+
+  }

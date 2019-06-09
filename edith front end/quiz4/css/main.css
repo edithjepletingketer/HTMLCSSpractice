@@ -1,0 +1,89 @@
+body{
+  background-color: #e5e5e5;
+  font-family: arial;
+}
+
+header{
+  height: 50px;
+  background-color: #dd9f33;
+}
+.head{
+	width: 1200px;
+	margin: 0 auto;
+}
+
+.head ul{
+	float: left;
+}
+.head ul li{
+	float: left;
+	list-style: none;
+}
+.head ul li{
+	padding-left: 20px;
+	text-transform: uppercase;
+	color: #000;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 13px;
+}
+.edith{
+width: 1080px;
+background-color: #fff;
+margin: 0 auto;
+min-height: 500px;
+padding: 60px;
+overflow: auto;
+
+
+
+}
+.edith .ed{
+	float: left;
+	margin-right: 40px;
+	margin-bottom: 40px;
+}
+.edith h1{
+	margin: 0 0 20px 0;
+	padding: 0;
+}
+.edith h4{
+	margin: 0 0 20px 0;
+	padding: 0;
+	color: #505050;
+
+}
+.edith p{
+	font-size: 15px;
+	line-height: 1.5em;
+}
+
+
+
+.edith .image{
+	float: left;
+	width: 332px;
+}
+.edith .image1{
+	padding-right: 40px;
+
+}
+.edith .image2{
+	padding-right: 40px;
+}
+
+footer{
+  font-size: 12px;
+  text-align: center;
+  color: #444;
+  padding-top: 20px;
+  padding-bottom: 100px;
+}
+
+
+
+
+
+
+
+
